@@ -10,7 +10,7 @@ Waze Object Model
 :Version: v2.81-3-gfc1660b6c
 :Web: http://waze.com/editor
 
-The `W` object provides a namespace for all things OpenLayers
+The `W` object provides a namespace for all things waze
 
 .. toctree::
     :maxdepth: 1
