@@ -8,7 +8,7 @@ Waze Object Model
 .. image:: https://raw.githubusercontent.com/TheCre8r/Waze-Object-Model/main/docs/_static/logo.png
 
 :Version: v2.81-3-gfc1660b6c
-:Web: http://waze.com/editor.com
+:Web: http://waze.com/editor
 
 The `W` object provides a namespace for all things OpenLayers
 
