@@ -10,7 +10,7 @@ Waze Object Model
 :Version: v2.81-3-gfc1660b6c
 :Web: http://waze.com/editor
 
-The `W` object provides a namespace for all things waze
+The `W` object provides a namespace for all things Waze.
 
 .. toctree::
     :maxdepth: 1
@@ -37,4 +37,5 @@ The `W` object provides a namespace for all things waze
     togglerTree
     vent
     version
+    templates
     
