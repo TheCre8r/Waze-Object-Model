@@ -5,7 +5,7 @@
 Waze Object Model
 ===================
 
-.. image:: https://github.com/TheCre8r/Waze-Object-Model/blob/main/docs/_static/logo.png
+.. image:: https://raw.githubusercontent.com/TheCre8r/Waze-Object-Model/main/docs/_static/logo.png
 
 :Version: v2.81-3-gfc1660b6c
 :Web: http://waze.com/editor.com
