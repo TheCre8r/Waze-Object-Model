@@ -1,29 +1,36 @@
-- A bullet list item
-- Second item
+===================
+Waze Object Model
+===================
 
-  - A sub item
+.. image:: https://github.com/TheCre8r/Waze-Object-Model/blob/main/docs/_static/logo.png
 
-- Spacing between items separates list items
+:Version: v2.81-3-gfc1660b6c
+:Web: http://waze.com/editor.com
 
-* Different bullet symbols create separate lists
+The `W` object provides a namespace for all things OpenLayers
 
-- Third item
+.. toctree::
+    :maxdepth: 1
 
-1) An enumerated list item
-
-2) Second item
-
-   a) Sub item that goes on at length and thus needs
-      to be wrapped. Note the indentation that must
-      match the beginning of the text, not the 
-      enumerator.
-
-      i) List items can even include
-
-         paragraph breaks.
-
-3) Third item
-
-#) Another enumerated list item
-
-#) Second item
+    Config
+    Rule
+    accelerators
+    app
+    changesLogController
+    commands
+    controller
+    editingMediator
+    geometryEditing
+    layerSwitcherController
+    loginManager
+    map
+    model
+    prefs
+    reqres
+    saveController
+    selectionManager
+    snapshotManager
+    streetViewController
+    togglerTree
+    vent
+    version
