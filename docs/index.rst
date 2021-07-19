@@ -1,3 +1,6 @@
+.. py:currentmodule:: jinja2
+.. highlight:: html+jinja
+
 ===================
 Waze Object Model
 ===================
@@ -34,3 +37,4 @@ The `W` object provides a namespace for all things OpenLayers
     togglerTree
     vent
     version
+    
