@@ -1,5 +1,5 @@
 .. py:currentmodule:: jinja2
-.. highlight:: html+jinja
+.. highlight:: html+jinja+js
 
 ===================
 Waze Object Model
