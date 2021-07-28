@@ -25,6 +25,14 @@ getRepository(e)
 
 Returns something.
 
+.. _model-getTopCountry:
+
+getTopCountry()
+********
+``W.model.getTopCountry()``
+
+Returns the ``string`` of the country you are editing in.
+
 --------------------------------------------------------------------------------
 
 .. _model-properties:
