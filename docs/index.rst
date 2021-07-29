@@ -12,6 +12,17 @@ Waze Object Model
 
 The `W` object provides a namespace for all things Waze.
 
+===================
+OpenLayers 2
+===================
+
+:Version: 2.13.1
+:Web: http://dev.openlayers.org/releases/OpenLayers-2.13.1/docs/files/OpenLayers-js.html
+
+
+===================
+
+
 .. toctree::
     :maxdepth: 1
 
