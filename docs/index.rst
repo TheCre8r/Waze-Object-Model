@@ -19,6 +19,12 @@ OpenLayers 2
 :Version: 2.13.1
 :Web: http://dev.openlayers.org/releases/OpenLayers-2.13.1/docs/files/OpenLayers-js.html
 
+===================
+jQuery
+===================
+
+:Version: 3.6.0
+:Web: https://api.jquery.com/
 
 ===================
 
